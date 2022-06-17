@@ -38,8 +38,6 @@ DICT = {"Amazonas": ["Chachapoyas","Bagua","Bongara","Condorcanqui","Luya","Rodr
         "Tumbes":["Tumbes","Contralmirante Villar","Zarumilla"],
         "Ucayali":["Coronel Portillo","Atalaya","Padre Abad","Purús"]}
 
-#Casma,Huaylas,Castilla,Anta,Canas,Manu,Ambo,Marañon, Ica,
-
 LD = {"Amazonas","Áncash","Apurímac","Arequipa","Ayacucho",
       "Cajamarca","Callao","Cusco","Huancavelica","Huánuco",
       "Ica","Junín","La Libertad","Lambayeque","Lima",
