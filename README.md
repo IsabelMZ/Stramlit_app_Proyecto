@@ -1,4 +1,4 @@
-# Streamlit_app_Proyecto
+# Streamlit_app_Proyecto_Equipo2
 Repositorio grupal para la entrega del Trabajo Final del curso Programación Avanzada. 
 
 Miembros de equipo:
